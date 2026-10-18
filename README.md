@@ -1,0 +1,1 @@
+# manager-of-shine-updates
