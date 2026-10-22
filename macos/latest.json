@@ -1,11 +1,11 @@
 {
-  "version": "1.0.12",
+  "version": "1.0.13",
   "notes": "MANAGER OF SHINE macOS Apple Silicon update",
-  "pub_date": "2026-10-22T17:51:31.236Z",
+  "pub_date": "2026-10-22T21:36:34.101Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaHI2YWNxRDJaQ0p1cjU3YjNublZ3QkdqbTFrYlFaTFhHYXB4bXpoWFdkOVZvaGFTbjBYK2hrNFBxOW1BdkxLTERKVGs3Y3JTdU5TZHJrYXhQT3AxbHl2Tzk0RFNWRFFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjkxNDkwCWZpbGU6TUFOQUdFUiBPRiBTSElORS5hcHAudGFyLmd6CXZlcnNpb246MS4wLjEyCll2eDZ0V2xvd3A0M3BFaFkvRS9qb0x5bStGVzZLR0MzaVNYNHlkdU0xMndZTmVYc2FPRWsydlpuRllYaDNDV096RGZNenh4b3hac1M1NDRTY2QrOERnPT0K",
-      "url": "https://github.com/ale300399-cloud/manager-of-shine-updates/releases/download/macos-1.0.12/MANAGER.OF.SHINE.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaHI2YWNxRDJaQ0pKODBWSFRoTC9mUUhIREE1bnVGREhNVTc2a0tqWkJzeGtYZTZRQU13RWZISms0VHBVSm9HOCs5NUZZRFAzdVdPOEp2amVDcVN2MkJMenQwSjhsMHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzA0OTkzCWZpbGU6TUFOQUdFUiBPRiBTSElORS5hcHAudGFyLmd6CXZlcnNpb246MS4wLjEzCkkwcUdibE91U2VTS29nb3l6KzVUK2JmVlJzdWFFNW5OUytxcW1hejNTVS8yUTNpMURQQWtMWUFHVXQrN3NvVHJJWXZwampWdHJkeHBLVENoRVlHT0NnPT0K",
+      "url": "https://github.com/ale300399-cloud/manager-of-shine-updates/releases/download/macos-1.0.13/MANAGER.OF.SHINE.app.tar.gz"
     }
   }
 }
